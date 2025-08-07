@@ -1,17 +1,16 @@
 # HashGenerator
 
-HashGenerator is a Python application that generates hash values from files or string inputs using various hash algorithms (md5, sha1, sha224, sha256, sha384, sha512).
+HashGenerator is a modern Python GUI application that generates hash values from files or string inputs using various hash algorithms (md5, sha1, sha224, sha256, sha384, sha512).
 
 ## Features
 - Generate hashes from file or string input
-- Colorful and user-friendly interface
+- Modern, user-friendly, and dark-themed interface
 - Easy to use
 
 ## Dependencies
-- colorama
-- pyfiglet
+- PySide6
+- qdarkstyle
 - hashlib (Python standard library)
-- os (Python standard library)
 
 ## Installation
 1. Install the required dependencies:
